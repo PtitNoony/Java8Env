@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Jul 05 13:13:14 CEST 2023
+@default-bintray-dukke-maven-https\://dl.bintray.com/dukke/maven/.lastUpdated=1688555594645
+https\://dl.bintray.com/dukke/maven/.error=Could not transfer artifact eu.hansolo\:toolbox\:pom\:17.0.45 from/to bintray-dukke-maven (https\://dl.bintray.com/dukke/maven/)\: dl.bintray.com
+https\://repo.maven.apache.org/maven2/.lastUpdated=1688555594682

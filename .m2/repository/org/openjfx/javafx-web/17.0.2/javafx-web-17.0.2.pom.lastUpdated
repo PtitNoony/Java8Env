@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Oct 08 15:55:21 CEST 2022
+@default-bintray-dukke-maven-https\://dl.bintray.com/dukke/maven/.lastUpdated=1665237321022
+https\://dl.bintray.com/dukke/maven/.error=Could not transfer artifact org.openjfx\:javafx-web\:pom\:17.0.2 from/to bintray-dukke-maven (https\://dl.bintray.com/dukke/maven/)\: transfer failed for https\://dl.bintray.com/dukke/maven/org/openjfx/javafx-web/17.0.2/javafx-web-17.0.2.pom
+https\://repo.maven.apache.org/maven2/.lastUpdated=1665237321085

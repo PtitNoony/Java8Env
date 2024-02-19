@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Oct 08 15:55:20 CEST 2022
+@default-bintray-dukke-maven-https\://dl.bintray.com/dukke/maven/.lastUpdated=1665237320026
+https\://dl.bintray.com/dukke/maven/.error=Could not transfer artifact org.apache.commons\:commons-parent\:pom\:52 from/to bintray-dukke-maven (https\://dl.bintray.com/dukke/maven/)\: transfer failed for https\://dl.bintray.com/dukke/maven/org/apache/commons/commons-parent/52/commons-parent-52.pom
+https\://repo.maven.apache.org/maven2/.lastUpdated=1665237320147

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Oct 08 15:55:53 CEST 2022
+@default-bintray-dukke-maven-https\://dl.bintray.com/dukke/maven/.lastUpdated=1665237327696
+https\://dl.bintray.com/dukke/maven/.error=Could not transfer artifact org.jfxtras\:jmetro\:jar\:11.6.15 from/to bintray-dukke-maven (https\://dl.bintray.com/dukke/maven/)\: transfer failed for https\://dl.bintray.com/dukke/maven/org/jfxtras/jmetro/11.6.15/jmetro-11.6.15.jar
+https\://repo.maven.apache.org/maven2/.lastUpdated=1665237353667

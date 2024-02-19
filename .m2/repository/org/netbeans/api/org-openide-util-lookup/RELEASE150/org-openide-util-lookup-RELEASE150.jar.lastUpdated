@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Oct 22 15:01:43 CEST 2022
+@default-bintray-dukke-maven-https\://dl.bintray.com/dukke/maven/.lastUpdated=1666443696229
+https\://dl.bintray.com/dukke/maven/.error=Could not transfer artifact org.netbeans.api\:org-openide-util-lookup\:jar\:RELEASE150 from/to bintray-dukke-maven (https\://dl.bintray.com/dukke/maven/)\: transfer failed for https\://dl.bintray.com/dukke/maven/org/netbeans/api/org-openide-util-lookup/RELEASE150/org-openide-util-lookup-RELEASE150.jar
+https\://repo.maven.apache.org/maven2/.lastUpdated=1666443703061

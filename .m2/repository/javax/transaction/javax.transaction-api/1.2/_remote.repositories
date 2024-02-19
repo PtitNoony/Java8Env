@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Jan 06 11:15:56 CET 2023
+javax.transaction-api-1.2.jar>central=
+javax.transaction-api-1.2.pom>central=

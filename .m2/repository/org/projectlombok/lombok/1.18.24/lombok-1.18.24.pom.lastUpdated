@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Oct 22 15:01:35 CEST 2022
+@default-bintray-dukke-maven-https\://dl.bintray.com/dukke/maven/.lastUpdated=1666443695553
+https\://dl.bintray.com/dukke/maven/.error=Could not transfer artifact org.projectlombok\:lombok\:pom\:1.18.24 from/to bintray-dukke-maven (https\://dl.bintray.com/dukke/maven/)\: transfer failed for https\://dl.bintray.com/dukke/maven/org/projectlombok/lombok/1.18.24/lombok-1.18.24.pom
+https\://repo.maven.apache.org/maven2/.lastUpdated=1666443695619

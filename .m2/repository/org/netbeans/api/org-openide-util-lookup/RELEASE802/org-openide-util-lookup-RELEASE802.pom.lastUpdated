@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Feb 19 21:37:44 CET 2024
+@default-maven-default-http-blocker-http\://0.0.0.0/.lastUpdated=1708375064266
+http\://0.0.0.0/.error=Could not transfer artifact org.netbeans.api\:org-openide-util-lookup\:pom\:RELEASE802 from/to maven-default-http-blocker (http\://0.0.0.0/)\: Blocked mirror for repositories\: [netbeans (http\://bits.netbeans.org/nexus/content/groups/netbeans/, default, releases+snapshots)]
+https\://oss.sonatype.org/content/repositories/snapshots/.error=
+https\://oss.sonatype.org/content/repositories/snapshots/.lastUpdated=1708375064820
+https\://repo.maven.apache.org/maven2/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1708375064994

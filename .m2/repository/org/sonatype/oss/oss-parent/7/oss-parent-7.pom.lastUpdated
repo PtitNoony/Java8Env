@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Oct 08 15:55:26 CEST 2022
+@default-bintray-dukke-maven-https\://dl.bintray.com/dukke/maven/.lastUpdated=1665237326387
+https\://dl.bintray.com/dukke/maven/.error=Could not transfer artifact org.sonatype.oss\:oss-parent\:pom\:7 from/to bintray-dukke-maven (https\://dl.bintray.com/dukke/maven/)\: transfer failed for https\://dl.bintray.com/dukke/maven/org/sonatype/oss/oss-parent/7/oss-parent-7.pom
+https\://repo.maven.apache.org/maven2/.lastUpdated=1665237326451

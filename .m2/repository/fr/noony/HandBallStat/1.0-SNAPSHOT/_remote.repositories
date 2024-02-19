@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Feb 19 21:47:58 CET 2024
+HandBallStat-1.0-SNAPSHOT.pom>=
+HandBallStat-1.0-SNAPSHOT-jar-with-dependencies.jar>=
+HandBallStat-1.0-SNAPSHOT.jar>=

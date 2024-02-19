@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Jul 24 19:48:33 CEST 2023
+@default-bintray-dukke-maven-https\://dl.bintray.com/dukke/maven/.lastUpdated=1690220910977
+https\://dl.bintray.com/dukke/maven/.error=Could not transfer artifact commons-logging\:commons-logging\:jar\:1.2 from/to bintray-dukke-maven (https\://dl.bintray.com/dukke/maven/)\: dl.bintray.com
+https\://repo.maven.apache.org/maven2/.lastUpdated=1690220913570
