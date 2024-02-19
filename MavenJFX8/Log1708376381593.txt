@@ -1,0 +1,2 @@
+2024-02-19 21:59:41 [main] fr.noony.mavenjfx8.utils.log.MainLogger.log()
+INFO: Launching the application
